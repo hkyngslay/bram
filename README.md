@@ -1,1 +1,6 @@
-# bram
+# https://tea.xyz/bram
+---
+version: 1.0.0
+codeOwners:
+  - '0x13c1d95610D8A5Ec72BD5018d0eD611DC9752158'
+quorum: 1
